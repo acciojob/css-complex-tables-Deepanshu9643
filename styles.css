@@ -1,9 +1,7 @@
 /*  your css code here. If applicable */
- table {
-    border-width: 0px 0px 1px 1px;
-    border-style: solid;
-    border-color: orange;
-}
+ table{
+	border-width:1px 1px 0px 0px;
+ }
 th{
 	background-color:#888888;
 	color:white;
