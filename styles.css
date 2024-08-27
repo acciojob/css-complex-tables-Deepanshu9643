@@ -11,7 +11,7 @@ th,td{
 	border:1px solid orange;
 	padding:3px 5px
 }
-.sub-total-text{
+.sub-total-row td.sub-total-text{
 	text-align:right;
 }
        
