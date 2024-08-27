@@ -1,12 +1,15 @@
 /*  your css code here. If applicable */
- th, td{
+ table{
 	 border:1px solid orange;
-	 padding: 3px 5px;
-	 text-align:center;
  }
 th{
 	background-color:#888888;
 	color:white;
+}
+th,td{
+	text-align:center;
+	border:1px solid orange;
+	padding:3px 5px
 }
 .sub-total-row{
 	text-align:right;
