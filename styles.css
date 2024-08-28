@@ -1,6 +1,8 @@
 /*  your css code here. If applicable */
  table{
-	border-width:1px;
+	 border-width: 0px 0px 1px 1px;
+    border-style: solid;
+    border-color: rgb(255, 165, 0);
  }
 th{
 	background-color:#888888;
@@ -11,7 +13,7 @@ th,td{
 	border:1px solid orange;
 	padding:3px 5px
 }
-.sub-total-row td.sub-total-text{
+sub-total-text{
 	text-align:right;
 }
        
